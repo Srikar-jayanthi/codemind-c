@@ -10,5 +10,6 @@ int main()
        c=a+b;
         printf("%d ",c);
        a=b;
-      b=c;}
+      b=c;
+}
 }
